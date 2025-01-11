@@ -1,0 +1,4 @@
+guest_name,street,number,department,location,in_date,out_date
+Ana,Ana-street,1,A,LINK_ANA,1/1/2050,11/1/2050
+Brian,Brian-steer,2,B,LINK_BRIAN,2/2/2050,12/2/2050
+Carlos,Carlos-street,3,C,LINK_CARLOS,3/3/2050,13/2/2050
